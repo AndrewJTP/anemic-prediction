@@ -1,1 +1,1 @@
-web: python tu_script.py
+web: python main.py
